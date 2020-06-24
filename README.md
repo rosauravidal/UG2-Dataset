@@ -7,6 +7,20 @@ The UG<sup>2</sup> Dataset (UAV, Glider, and Ground) contains manually annotated
 
 [Google Drive](https://goo.gl/AjA6En)
 
+# Citation
+If you use this dataset in your research, please cite our work as:
+
+```
+@inproceedings{vidal2018ug,
+  title={Ug\^{} 2: A video benchmark for assessing the impact of image restoration and enhancement on automatic visual recognition},
+  author={Vidal, Rosaura G and Banerjee, Sreya and Grm, Klemen and Struc, Vitomir and Scheirer, Walter J},
+  booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1597--1606},
+  year={2018},
+  organization={IEEE}
+}
+```
+
 ## Dataset stats
 
 ### Training partition
@@ -40,19 +54,3 @@ Object-Classes | 28 | 17 | 20 | 42
 ## Annotation format
 
 Bounding boxes establishing object regions were manually annotated using the [VATIC Video Annotation Tool](https://github.com/cvondrick/vatic/tree/contrib). We provide the VATIC annotation files for every annotated video in the dataset.
-
-
-
-# Citation
-If you use this dataset in your research, please cite our work as:
-
-```
-@inproceedings{vidal2018ug,
-  title={Ug\^{} 2: A video benchmark for assessing the impact of image restoration and enhancement on automatic visual recognition},
-  author={Vidal, Rosaura G and Banerjee, Sreya and Grm, Klemen and Struc, Vitomir and Scheirer, Walter J},
-  booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
-  pages={1597--1606},
-  year={2018},
-  organization={IEEE}
-}
-```
