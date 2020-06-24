@@ -7,7 +7,7 @@ The UG<sup>2</sup> Dataset (UAV, Glider, and Ground) contains manually annotated
 
 [Google Drive](https://goo.gl/AjA6En)
 
-# Citation
+## Citation
 If you use this dataset in your research, please cite our work as:
 
 ```
