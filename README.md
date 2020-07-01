@@ -54,3 +54,9 @@ Object-Classes | 28 | 17 | 20 | 42
 ## Annotation format
 
 Bounding boxes establishing object regions were manually annotated using the [VATIC Video Annotation Tool](https://github.com/cvondrick/vatic/tree/contrib). We provide the VATIC annotation files for every annotated video in the dataset.
+
+# Acknowledgement
+
+Funding was provided under IARPA contract #2016-16070500002.  This research is based upon work  supported  in  part  by  the  Office  of  the  Director  of National  Intelligence  (ODNI),  Intelligence  Advanced  Re-search Projects Activity (IARPA). The views and conclusions contained herein are those of the authors and should not  be  interpreted  as  necessarily  representing  the  official policies,  either  expressed  or  implied,  of  ODNI,  IARPA, or the U.S. Government.   
+
+The U.S. Government is autho-rized to reproduce and distribute reprints for governmental purposes notwithstanding any copyright annotation therein. We thank Dr.  Adam Czajka, Assistant Professor in the Department of Computer Science and Engineering in the College of Engineering at the University of Notre Dame and Mr.  Sebastian Kawa for assistance with data collection.
