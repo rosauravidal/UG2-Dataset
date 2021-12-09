@@ -1,7 +1,9 @@
 # UG<sup>2</sup> Dataset
 > A Video Benchmark for Assessing the Impact of Image Restoration and Enhancement on Automatic Visual Recognition
 
-The UG<sup>2</sup> Dataset (UAV, Glider, and Ground) contains manually annotated videos from challenging imaging scenarios containing mobile airborne cameras (**UAV, Gliders**) and **Ground**-based captures. While we provide frame-level annotations for the purpose of object classification, the annotations can be re-purposed for other high-level tasks such as object detection and tracking
+The UG<sup>2</sup> Dataset (UAV, Glider, and Ground) contains manually annotated videos from challenging imaging scenarios containing mobile airborne cameras (**UAV, Gliders**) and **Ground**-based captures. While we provide frame-level annotations for the purpose of object classification, the annotations can be re-purposed for other high-level tasks such as object detection and tracking.
+
+[Paper](https://arxiv.org/abs/1710.02909)
 
 ## Download
 
